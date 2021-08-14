@@ -4,4 +4,4 @@
 
 - [x] 实现功能
 
-- [] 加入 use、#await 等常用 API
+- [ ] 加入 use、#await 等常用 API
